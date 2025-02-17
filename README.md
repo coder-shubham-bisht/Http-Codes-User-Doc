@@ -1,4 +1,4 @@
-# HTTP Codes - User Doc
+# HTTP CODES User Doc
 
 ## 1. Go to http://localhost:3000
 
