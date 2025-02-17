@@ -1,4 +1,4 @@
-# Docs for Webserver
+# HTTP CODES SERVER DOCS
 
 ## Prequisite
 1. Nodejs installed on your OS
